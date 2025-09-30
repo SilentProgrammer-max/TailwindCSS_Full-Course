@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@layer components{
+.btn{
+    @apply text-white bg-pink-900 rounded-full py-3 px-5
+}
+}
+@layer utilities{
+
+}
+

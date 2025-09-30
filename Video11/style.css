@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.btn {
+    @apply text-white bg-amber-900 rounded-full py-2 px-4
+}
